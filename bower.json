@@ -1,0 +1,32 @@
+{
+  "name": "flv.js",
+  "version": "1.2.0",
+  "authors": [
+    "zheng qian <xqq@xqq.im>",
+    "Brice Vercoustre <brice@libcast.com>"
+  ],
+  "description": "HTML5 FLV Player",
+  "moduleType": [
+    "globals"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bricev/flv.js"
+  },
+  "keywords": [
+    "html5",
+    "flv",
+    "mse",
+    "javascript"
+  ],
+  "license": "Apache-2.0",
+  "ignore": [
+    "**",
+    "!/dist/**",
+    "!/README.md"
+  ],
+  "main": [
+    "./dist/flv.min.js",
+    "./dist/flv.min.map"
+  ]
+}
